@@ -16,8 +16,8 @@ from datetime import datetime
 import requests
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "7237553623:AAGeuFxyeYr77pK8o4JvVPHx66RzKAZQhcU"
-ADMIN_ID = ["6806106151"]
+BOT_TOKEN = "8554808972:AAGJ7UjH73RAUS3cSWTwtR6KgWZ5NGcr_F8"
+ADMIN_ID = ["6225091720"]
 OWNER_USERNAME = "@mesterious_boy7"
 
 # Files
